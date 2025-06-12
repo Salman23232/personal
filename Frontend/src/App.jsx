@@ -20,7 +20,6 @@ const App = () => {
       
       <div className="relative pt-20">
         <Navbar />
-        <ThreeBackground/>
         <About />
         <Skills />
         <Experience />
