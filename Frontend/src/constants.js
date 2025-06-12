@@ -45,7 +45,7 @@ import stscLogo from './assets/education_logo/stsc.png'
 // Project Section Logo's
 import thunderbolt from './assets/work_logo/thunderbolt.png';
 import musify from './assets/work_logo/musify.png';
-import instavivid from './assets/work_logo/instavivid.png';
+import instavivid from './assets/work_logo/Instavivid.png';
 
 
 
